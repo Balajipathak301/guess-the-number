@@ -17,4 +17,4 @@ while (n<9):
     n=n+1
 if n>8:
     print("chances over , You lost")
-    print("game over1")
+    print("game over")
